@@ -1,6 +1,6 @@
 int main(void)
 {
-	char *sh = "ALX";
+	char *sh = "holberton.h";
 
 	while (*sh)
 	{
